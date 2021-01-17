@@ -1,2 +1,1 @@
-# GSlix-Tech-Inc
- 
+# GSIX-Tech-Inc
